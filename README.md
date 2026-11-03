@@ -67,9 +67,9 @@ A project focused on analyzing bank loan approval and customer risk.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiwashGopalSingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiwashGopalSingh&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwashGopalSingh&layout=compact&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiwashGopalSingh&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -79,7 +79,7 @@ A project focused on analyzing bank loan approval and customer risk.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DiwashGopalSingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=DiwashGopalSingh&theme=tokyonight&hide_border=true)
 
 </div>
 
